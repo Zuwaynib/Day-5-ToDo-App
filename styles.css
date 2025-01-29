@@ -31,7 +31,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* color: #fff; */
     background: transparent;
     border-radius: 30px;
     border: 1px solid #00c9FF;
@@ -51,6 +50,7 @@ button {
     outline: none;
     padding: 16px 30px;
     background: #00c9FF;
+    color: #fff;
     text-transform: uppercase;
     font-size: 17px;
     cursor: pointer;
